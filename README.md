@@ -11,7 +11,4 @@
 
 ### Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/mirmostafa/)
-- [GitHub](https://github.com/mirmostafa)
-- [Instagram](https://www.instagram.com/mirmostafa3/)
-- [Twitter](https://twitter.com/_mirmostafa_)
+[<img src="https://img.icons8.com/fluency-systems-regular/48/000000/linkedin.png"/>](https://www.linkedin.com/in/mirmostafa/)[<img src="https://img.icons8.com/fluency-systems-regular/48/000000/github.png"/>](https://github.com/mirmostafa)[<img src="https://img.icons8.com/fluency-systems-regular/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/mirmostafa3/)[<img src="https://img.icons8.com/fluency-systems-regular/48/000000/twitter.png"/>](https://twitter.com/_mirmostafa_)
