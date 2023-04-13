@@ -8,6 +8,7 @@
 - 👨‍🎓 I'm currently _learning_ and **loving** Computer Programming, Physics, Quantum, Astronomy, Mathematics, and everything 🤣
 - 👯‍♀️ I'm looking to collaborate with the other development teams
 - 🥅 My goal for 2023: Grow up my team and the company i'm working for
+# Please help us to be free and live in a free world.
 
 ### Connect with me
 
