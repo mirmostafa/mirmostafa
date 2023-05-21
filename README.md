@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Mohammad 🖐
 
-### A Son🦸‍♂️, Husband🧔, Developer👨‍💻, Leader👨‍⚖️ and a Teacher👨‍🏫
+### A Son🦸‍♂️, husband🧔, feveloper👨‍💻, leader👨‍⚖️ and teacher👨‍🏫
 
 - 👨‍🏭 I'm currently working on [Chargoon](https://www.chargoon.com/), Tehran, Iran
 - 👨‍🎓 I'm currently _learning_ and **loving** Computer Programming, Physics, Quantum, Astronomy, Mathematics, and everything 🤣
